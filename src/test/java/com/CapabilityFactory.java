@@ -1,3 +1,5 @@
+package com;
+
 import org.openqa.selenium.Capabilities;
 
 public class CapabilityFactory {
